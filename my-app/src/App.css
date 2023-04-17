@@ -44,7 +44,7 @@ body {
 section {
   position: relative;
   height: 85vh;
-  background-image: url(https://media.istockphoto.com/id/462440849/photo/nuclear-power-plant-cooling-towers-at-dusk.jpg?s=612x612&w=0&k=20&c=HqRZ6p5s_SDVAf_iA4WYa4rsCQn_cCI2Kc-8HmziN5Y);
+  background-image: url('https://media.istockphoto.com/photos/nuclear-power-plant-cooling-towers-at-dusk-picture-id462440849?k=20&m=462440849&s=612x612&w=0&h=TMB5ut5WlYBdMybQ2q3v19r_RQ2MxyTNyNt9nIlfvZ8=');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -57,7 +57,7 @@ section:before {
   left: 0;
   width: 300px;
   height: 100%;
-  background-image: url(https://media.istockphoto.com/id/955124060/photo/nuclear-bomb-explosion-mushroom-cloud.jpg?s=612x612&w=0&k=20&c=64Wac4ttC1DgBeBvCmYHWB56OyckJGNiO3AjsIe8c2c);
+  background-image: url('https://media.istockphoto.com/photos/nuclear-bomb-explosion-mushroom-cloud-picture-id955124060?k=20&m=955124060&s=612x612&w=0&h=K6OF-fJ9rsBNNl50bZblVDrGJfYU6_zgUyakOthFck8=');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -115,4 +115,3 @@ section .overlay h1:hover,
 section .overlay p:hover {
   color: #ffc107;
 }
-
